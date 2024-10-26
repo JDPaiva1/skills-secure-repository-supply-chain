@@ -1,10 +1,10 @@
-version: 2
-updates:
-  - package-ecosystem: "nuget"
-    directory: "/code/"
-    schedule:
-      interval: "weekly"
-  - package-ecosystem: "nuget"
-    directory: "/code/"
-    schedule:
-      interval: "weekly"
+# version: 2
+# updates:
+#   - package-ecosystem: "nuget"
+#     directory: "/code/"
+#     schedule:
+#       interval: "weekly"
+#   - package-ecosystem: "nuget"
+#     directory: "/code/"
+#     schedule:
+#       interval: "weekly"
